@@ -1,0 +1,4 @@
+elixir:
+  build: .
+  volumes:
+   - codes/:/codes
